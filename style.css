@@ -1,0 +1,21 @@
+body{
+  background-image: url("background1.jpg");
+}
+#footer {
+  position: fixed;
+  bottom: 0;
+  background-color: pink;
+  width: 100%;
+  font-size: 20px;
+  line-height: 2;
+}
+.heading {
+  width: 100%;
+  text-align: center;
+}
+h1,h3 {
+  display: inline-block;
+}
+.heading button {
+  float: right;
+}
